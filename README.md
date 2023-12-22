@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
 
-# Tech Writings
+# Technical Writing
 * [👩🏻‍💻 *Two ways to get started with `diff` for bioinformatics: using Python and also Excel to output a Bash shell script with pairwise file comparisons,* herlog.com. August 27, 2023](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
 * [📑 *General guidelines and understandings for handing off data to another team precisely every time*, herlog.com. October 8, 2023](https://www.herlog.com/some-general-guidelines-and-understandings-for-handing-off-data-to-another-team-precisely-every-time/)
 * [👩🏻‍💻 *Getting started with `screen` for bioinformaticians*, herlog.com. December 17, 2023](https://www.herlog.com/getting-started-with-screen-for-bioinformaticians/)
