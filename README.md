@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 * [🧬 *Calculating concordance in Illumina's Genome Studio 2.0*, herlog.com. October 27, 2023](https://www.herlog.com/calculating-concordance-in-genomestudio-2-0/)
 
+* [🧬 *The value of DTC ancestry DNA kits and where they are made illegal and possibly why*, herlog.com. January 18, 2024](https://www.herlog.com/the-value-of-dtc-ancestry-dna-kits-and-where-they-are-made-illegal-and-possibly-why/)
+
 # 🏆 Certificates
 * [👩🏻‍💻 Introduction to Computational Thinking and Data Science, MITx, December 23, 2014](https://verify.edx.org/cert/aa83389ceceb4ae38eb4c93cba4f84be) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/3e60269af98e4422a80f6d1375d391f7/Certificate.pdf) -->
 * [👩🏻‍💻 Introduction to Computer Science and Programming Using Python, MITx, October 31, 2014](https://verify.edx.org/cert/5d9a5a822b324d9598a41abfe7579fb3) <!--(https://s3.amazonaws.com/verify.edx.org/downloads/98d0824c8c5340d29fcc121b0596c87b/Certificate.pdf) -->
