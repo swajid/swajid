@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * [👩🏻‍💻 `Rosalind_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_LeetCode_Datacamp)
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
+* 🧬 `Unified_Taxonomic_Classifier` (Spring 2024)
 
 # 📚 Technical Writing
 * [👩🏻‍💻 *Two ways to get started with `diff` for bioinformatics: using Python and also Excel to output a Bash shell script with pairwise file comparisons,* herlog.com. August 27, 2023](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
