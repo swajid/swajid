@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 * [🧬 `iGEM-Rutgers-Software`](https://github.com/swajid/iGEM-Rutgers-Software)
 * [🧬 `Merge_topoffs_DNA_nexus`](https://github.com/swajid/Merge_topoffs_DNA_nexus)
 * [🧬 `PacBio_Rename_All_Unique_Ids_To_Well_Names_From_XML`](https://github.com/swajid/PacBio_Rename_All_Unique_Ids_To_Well_Names_From_XML)
+* [🗄️ `Pairwise File Comparisons`](https://github.com/herlog/pairwise-file-comparisons/)
 * [📑 `review_and_read_ahead`](https://github.com/swajid/review_and_read_ahead)
 * [👩🏻‍💻 `Rosalind_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_LeetCode_Datacamp)
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
