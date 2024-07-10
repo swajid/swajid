@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 * [🧬 `Merge_topoffs_DNA_nexus`](https://github.com/swajid/Merge_topoffs_DNA_nexus)
 * [🧬 `PacBio_Rename_All_Unique_Ids_To_Well_Names_From_XML`](https://github.com/swajid/PacBio_Rename_All_Unique_Ids_To_Well_Names_From_XML)
 * [🗄️ `Pairwise File Comparisons`](https://github.com/herlog/pairwise-file-comparisons/)
-* [🐍 `py-task-organizer`](https://github.com/swajid/py-task-organizer) (Fall 2024)
+* [🐍 `py-task-organizer`](https://github.com/swajid/py-task-organizer) (Summer & Fall 2024)
 * [📑 `review_and_read_ahead`](https://github.com/swajid/review_and_read_ahead)
-* [👩🏻‍💻 `Rosalind_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_LeetCode_Datacamp)
+* [👩🏻‍💻 `Rosalind_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_LeetCode_Datacamp) (Summer & Fall 2024)
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🦀 `rusty-task-organizer`](https://github.com/swajid/rusty-task-organizer)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 * [👩🏻‍💻 Introduction to Computer Science and Programming Using Python, MITx, October 31, 2014](https://verify.edx.org/cert/5d9a5a822b324d9598a41abfe7579fb3) <!--(https://s3.amazonaws.com/verify.edx.org/downloads/98d0824c8c5340d29fcc121b0596c87b/Certificate.pdf) -->
 * [🧬 Quantitative Biology Workshop, MITx, August 1, 2014](https://verify.edx.org/cert/98e36083a1f54d24a983362010aa15a4) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/131c804ac0724b57bcabbb995c66cea0/Certificate.pdf) -->
 
-[📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/imsanaw.bsky.social)
+[📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/imsanaw.bsky.social) [💻](https://rosalind.info/users/imsanaw/)
