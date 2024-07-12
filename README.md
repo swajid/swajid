@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * [🗄️ `Pairwise File Comparisons`](https://github.com/herlog/pairwise-file-comparisons/)
 * [🐍 `py-task-organizer`](https://github.com/swajid/py-task-organizer) (Summer & Fall 2024)
 * [📑 `review_and_read_ahead`](https://github.com/swajid/review_and_read_ahead)
-* [👩🏻‍💻 `Rosalind_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_LeetCode_Datacamp) (Summer & Fall 2024)
+* [⭐️ `Rosalind_Project_Euler_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp) (Summer & Fall 2024)
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🦀 `rusty-task-organizer`](https://github.com/swajid/rusty-task-organizer)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
