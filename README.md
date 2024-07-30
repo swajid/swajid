@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * [⭐️ `Rosalind_Project_Euler_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp) (Summer & Fall 2024)
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🦀 `rusty-task-organizer`](https://github.com/swajid/rusty-task-organizer)
+* [🧬 `streamlit-bioinformatics-tools`](https://app-bioinformatics-tools.streamlit.app/) (Summer & Fall 2024)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
 
