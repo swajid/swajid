@@ -24,6 +24,38 @@ Here are some ideas to get you started:
 * [🐍 `py-task-organizer`](https://github.com/swajid/py-task-organizer) (Summer & Fall 2024)
 * [📑 `review_and_read_ahead`](https://github.com/swajid/review_and_read_ahead)
 * [⭐️ `Rosalind_Project_Euler_LeetCode_Datacamp`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp) (Summer & Fall 2024)
+  * [`FIB_RabbitsAndRecurrenceRelations.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/FIB/FIB_RabbitsAndRecurrenceRelations.py)
+
+  * [`FRMT-DataFormats.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/FRMT/FRMT-DataFormats.py)
+
+  * [`GC_ComputingGCContent.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/GC/GC_ComputingGCContent.py)
+
+  * [`GRPH_OverlappingGraphs.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/GRPH/GRPH_OverlappingGraphs.py)
+
+  * [`IPRB-MendelsFirstLaw.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/IPRB/IPRB-MendelsFirstLaw.py)
+
+  * [`LEXF_EnumeratingK-mersLexicographically.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/LEXF/LEXF_EnumeratingK-mersLexicographically.py)
+
+  * [`LEXV_OrderingStringsOfVaryingLengthLexicographically.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/LEXV/LEXV_OrderingStringsOfVaryingLengthLexicographically.py)
+
+  * [`PROT-TranslatingRNAIntoProtein.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/PROT/PROT-TranslatingRNAIntoProtein.py)
+
+  * [`PRTM-Calculating_Protein_Mass.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/PRTM/PRTM-Calculating_Protein_Mass.py)
+
+  * [`REVP_LocatingRestrictionSites.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/REVP/REVP_LocatingRestrictionSites.py)
+
+  * [`SUBS-FindAMotifInDNA.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/SUBS/SUBS-FindAMotifInDNA.py)
+
+  * [`TFSQ_FASTQFormatIntroduction.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Rosalind/TFSQ/TFSQ_FASTQFormatIntroduction.py)
+
+  * [`Euler_1.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Project_Euler/001/Euler_1.py)
+
+  * [`Euler_1.rs`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Project_Euler/001/Euler_1.rs)
+
+  * [`Euler_5.py`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Project_Euler/005/Euler_5.py)
+
+  * [`Euler_5.rs`](https://github.com/swajid/Rosalind_Project_Euler_LeetCode_Datacamp/blob/main/Project_Euler/005/Euler_5.rs)
+
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🦀 `rusty-task-organizer`](https://github.com/swajid/rusty-task-organizer)
 * [🧬 `streamlit-bioinformatics-tools`](https://app-bioinformatics-tools.streamlit.app/) (Summer & Fall 2024)
