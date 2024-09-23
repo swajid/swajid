@@ -77,3 +77,6 @@ Here are some ideas to get you started:
 * [🧬 Quantitative Biology Workshop, MITx, August 1, 2014](https://verify.edx.org/cert/98e36083a1f54d24a983362010aa15a4) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/131c804ac0724b57bcabbb995c66cea0/Certificate.pdf) -->
 
 [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/imsanaw.bsky.social) [💻](https://rosalind.info/users/imsanaw/)
+
+# 📌 Posters
+![img](rutgers-igem-poster-2011.png)
