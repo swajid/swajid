@@ -76,8 +76,13 @@ Here are some ideas to get you started:
 * [👩🏻‍💻 Introduction to Computer Science and Programming Using Python, MITx, October 31, 2014](https://verify.edx.org/cert/5d9a5a822b324d9598a41abfe7579fb3) <!--(https://s3.amazonaws.com/verify.edx.org/downloads/98d0824c8c5340d29fcc121b0596c87b/Certificate.pdf) -->
 * [🧬 Quantitative Biology Workshop, MITx, August 1, 2014](https://verify.edx.org/cert/98e36083a1f54d24a983362010aa15a4) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/131c804ac0724b57bcabbb995c66cea0/Certificate.pdf) -->
 
-[📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/imsanaw.bsky.social) [💻](https://rosalind.info/users/imsanaw/)
 
 # 📌 Posters
+## 🦠 Rutgers iGEM: *Complex Circuits In Synthetic Biology*
 ![img](rutgers-igem-poster-2011.png)
 ![img](rutgers-igem-team-smaller.png)
+
+# 🗃️ Papers
+* [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
+
+[📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/imsanaw.bsky.social) [💻](https://rosalind.info/users/imsanaw/)
