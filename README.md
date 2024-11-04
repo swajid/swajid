@@ -80,3 +80,4 @@ Here are some ideas to get you started:
 
 # 📌 Posters
 ![img](rutgers-igem-poster-2011.png)
+![img](rutgers-igem-team-smaller.png)
