@@ -90,6 +90,9 @@ Here are some ideas to get you started:
 ## 🧬 Rutgers Bhattacharya Algal Genomics Lab - Bioinformaticist (Jan 2012 - May 2014)
 ![img](rutgers-bhattacharya-lab-2012-phycological-society-of-america-poster-charleston-sc.png)
 
+## 🧬 Rutgers Structural Biology Computational Lab - Student Researcher (2011 - 2015)
+![img](rutgers-homology-model-of-yp_466500.png)
+
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
 
