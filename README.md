@@ -83,6 +83,8 @@ Here are some ideas to get you started:
 ![img](rutgers-igem-poster-2011.png)
 ![img](rutgers-igem-team-smaller.png)
 ![img](rutgers-gears-logo-2011.png)
+## Rutgers Bhattacharya Algal Genomics Lab - Bioinformaticist (Jan 2012 - May 2014)
+![img](rutgers-bhattacharya-lab-2012-phycological-society-of-america-poster-charleston-sc.png)
 
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
