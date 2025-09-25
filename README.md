@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 ![img](rutgers-igem-poster-2011.png)
 ![img](rutgers-igem-team-smaller.png)
 ![img](rutgers-gears-logo-2011.png)
-### Bacterial Full-Adder
+![img](rutgers-igem_bacterial-etch-a-sketch.png)
+![img](rutgers-igem_bacterial-full-adder-logo.png)
 ![img](rutgers-igem_bacterial-full-adder-circuit-2011.png)
 
 ## 🧬 Rutgers Bhattacharya Algal Genomics Lab - Bioinformaticist (Jan 2012 - May 2014)
