@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 * [🧬 *The value of DTC ancestry DNA kits and where they are made illegal and possibly why*, herlog.com. January 18, 2024](https://www.herlog.com/the-value-of-dtc-ancestry-dna-kits-and-where-they-are-made-illegal-and-possibly-why/)
 
-* [🧬 *Structure-function relationship of FAD-dependent pyridine nucleotide-disulfide oxidoreductase in *Anaeromyxobacter dehalogenans* 2CP-C reveals perhaps, a unique mechanism for transferring reducing equivalents*, Second Year (Level 600) Graduate Level Course: *Homology Modeling of Proteins*, December 20, 2013](swajid-2013-Homology-Modeling-Final.pdf)
+* [🧬 *Structure-function relationship of FAD-dependent pyridine nucleotide-disulfide oxidoreductase in *Anaeromyxobacter dehalogenans* 2CP-C reveals perhaps, a unique mechanism for transferring reducing equivalents*, (Cross-listed) Second-Year (Level 600) Graduate Level Course: *Homology Modeling of Proteins* Final Paper, Course Grade: A, December 20, 2013](swajid-2013-Homology-Modeling-Final.pdf)
 
 # 🏆 Certificates
 * [👩🏻‍💻 Introduction to Computational Thinking and Data Science, MITx, December 23, 2014](https://verify.edx.org/cert/aa83389ceceb4ae38eb4c93cba4f84be) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/3e60269af98e4422a80f6d1375d391f7/Certificate.pdf) -->
