@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
 
-# 📚 Technical Writing
+# 📚 Scientific and Technical Writing
 * [👩🏻‍💻 *Two ways to get started with `diff` for bioinformatics: using Python and also Excel to output a Bash shell script with pairwise file comparisons,* herlog.com. August 27, 2023](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
 * [📑 *General guidelines and understandings for handing off data to another team precisely every time*, herlog.com. October 8, 2023](https://www.herlog.com/some-general-guidelines-and-understandings-for-handing-off-data-to-another-team-precisely-every-time/)
 * [👩🏻‍💻 *Getting started with `screen` for bioinformaticians*, herlog.com. December 17, 2023](https://www.herlog.com/getting-started-with-screen-for-bioinformaticians/)
@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 * [🧬 *Calculating concordance in Illumina's Genome Studio 2.0*, herlog.com. October 27, 2023](https://www.herlog.com/calculating-concordance-in-genomestudio-2-0/)
 
 * [🧬 *The value of DTC ancestry DNA kits and where they are made illegal and possibly why*, herlog.com. January 18, 2024](https://www.herlog.com/the-value-of-dtc-ancestry-dna-kits-and-where-they-are-made-illegal-and-possibly-why/)
+
+* [🧬 *Structure-function relationship of FAD-dependent pyridine nucleotide-disulfide oxidoreductase in *Anaeromyxobacter dehalogenans* 2CP-C reveals perhaps, a unique mechanism for transferring reducing equivalents*](swajid-2013-Homology-Modeling-Final.pdf)
 
 # 🏆 Certificates
 * [👩🏻‍💻 Introduction to Computational Thinking and Data Science, MITx, December 23, 2014](https://verify.edx.org/cert/aa83389ceceb4ae38eb4c93cba4f84be) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/3e60269af98e4422a80f6d1375d391f7/Certificate.pdf) -->
