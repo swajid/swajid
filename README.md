@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 
 ## 🧬 Rutgers Structural Biology Computational Lab - Homology Protein Modeling - Student Researcher (2011 - 2015)
 ![img](rutgers-homology-model-of-yp_466500.png)
+![img](rutgers-homology-model_alignment-of-yp_466500.png)
 
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
