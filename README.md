@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 
 # 📌 Posters
-## 🦠 Rutgers iGEM 2011: *Complex Circuits In Synthetic Biology* - Team Founder and Team Lead (Both Wet-lab & Software)
+## 🦠 Rutgers iGEM 2011: *Complex Circuits In Synthetic Biology* - Team Founder and Team Leader (Both: Synthetic Biology Wet-lab & Synthetic Biology Software)
 ## ⚙️ Rutgers GEARS: *Genetic Engineering at Rutgers Society* - Founder and President
 ![img](rutgers-igem-poster-2011.png)
 ![img](rutgers-igem-team-smaller.png)
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 ![img](rutgers-igem_bacterial-etch-a-sketch.png)
 ![img](rutgers-igem_bacterial-full-adder-logo.png)
 ![img](rutgers-igem_bacterial-full-adder-circuit-2011.png)
+![img](rutgers-igem-mysis.png)
 
 ## 🧬 Rutgers Bhattacharya Algal Genomics Lab - Bioinformaticist (Jan 2012 - May 2014)
 ![img](rutgers-bhattacharya-lab-2012-phycological-society-of-america-poster-charleston-sc.png)
