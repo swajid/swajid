@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
+![img](what-im-reading-or-re-reading-winter-2026.png)
+
 # 📊 Code
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
 * [👩🏻‍💻 `Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files`](https://github.com/swajid/Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files)
@@ -59,7 +62,7 @@ Here are some ideas to get you started:
 * [👩🏻‍💻 `rust-math-camp`](https://github.com/swajid/rust-math-camp)
 * [🦀 `rusty-task-organizer`](https://github.com/swajid/rusty-task-organizer)
 * [🧬 `streamlit-bioinformatics-tools`](https://app-bioinformatics-tools.streamlit.app/) (Summer & Fall 2024)
-* [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR)
+* [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR) (2013-2014)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
 
 # 📚 Scientific and Technical Writing
@@ -100,8 +103,6 @@ Here are some ideas to get you started:
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
 
-# 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
-![img](what-im-reading-or-re-reading-winter-2026.png)
 
 `I dedicate all of my work and everything good I have done and will ever do to my parents, who are intelligent, wise, funny, honest and hard-working people that have taught me, by example, to pay serious attention to the details in everything I do. I have always done all of my work, all by myself. My work is my power and I, as I always have done, take pride in it.`
 
