@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
-![img](what-im-reading-or-re-reading-winter-2026.png)
+![img](what-im-reading-or-re-reading-winter-2026-updated.png)
 
 # 📊 Code
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
