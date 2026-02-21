@@ -109,4 +109,6 @@ Here are some ideas to get you started:
 
 `I dedicate all of my work and everything good I have done and will ever do to my parents, who are intelligent, wise, funny, honest and hard-working people that have taught me, by example, to pay serious attention to the details in everything I do. I have always done all of my work, all by myself. My work is my power and I, as I always have done, take pride in it.`
 
+`"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." - my brother`
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
