@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 
+* [The difference between a (sports) coach and an advisor & you could need both, very interesting](https://www.youtube.com/watch?v=oHDq1PcYkT4)
+
 ## My Current Side Projects (Winter/Spring 2026)
 * Latin (via Duolingo) (was offered but I didn't take it in hs but wanted to learn since A.P. European History) <!-- bc Im going to do everything I always and ever wanted to do --> 
 
