@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 
+## My Current Side Projects (Winter/Spring 2026)
+* Latin (via Duolingo) (was offered but I didn't take it in hs but wanted to learn since A.P. European History) <!-- bc Im going to do everything I always and ever wanted to do --> 
+
 # 📊 Code
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
 * [👩🏻‍💻 `Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files`](https://github.com/swajid/Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files)
