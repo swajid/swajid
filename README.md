@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
+![img](what-im-reading-or-re-reading-winter-2026_pt2.png)
 
 * [The difference between a (sports) coach and an advisor & you could need both, very interesting](https://www.youtube.com/watch?v=oHDq1PcYkT4)
 
