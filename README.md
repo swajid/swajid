@@ -113,6 +113,11 @@ Here are some ideas to get you started:
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
 
 ![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
+![img](i-subtweet-once-and-thats-it_thats-all.png)
+
+# Fun Facts About Me
+* All by myself and for work, I lived in Montgomery County twice in two different states: Bala Cynwyd (Part of "Main line"), Pennsylvania and then again in Bethesda, Maryland
+
 
 `I dedicate all of my work and everything good I have done and will ever do to my parents, who are intelligent, wise, funny, honest and hard-working people that have taught me, by example, to pay serious attention to the details in everything I do. I have always done all of my work, all by myself. My work is my power and I, as I always have done, take pride in it.`
 
