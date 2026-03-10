@@ -123,4 +123,5 @@ Here are some ideas to get you started:
 
 `"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." - my brother`
 
+`"It's just LiesGPT" or "They're using LiesGPT" - my dad (watching press conferences on the news)
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
