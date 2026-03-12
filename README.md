@@ -129,4 +129,6 @@ Here are some ideas to get you started:
 
 `"It's ok, let's go back and do it again" x 6 or 7 times, literally. - One of my fav bioinfo managers ever, while I was a Bioinformatician III in industry. We were trying to get a SQL sequence/code correct for looking at Genome In A Bottle data (our own downsampling project) on Teams, we had to keep re-writing it on the spot but everytime, very calmly they just said "Ok, let's go back and do it again." There's so much wisdom, elegance, class, patience in how they handled that and other things too. Multiple people worked on this including myself. I believe this was in 2022`
 
+`"We want to know what your brain can do with this sequencing data we have sitting around." - PI to me on my first day as a Bioinformaticist (2012) (see our published paper from 2013 for results of that effort)`
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
