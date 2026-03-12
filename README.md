@@ -126,4 +126,7 @@ Here are some ideas to get you started:
 `"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." - my brother`
 
 `"It's just LiesGPT" or "They're using LiesGPT" - my dad (watching press conferences on the news)`
+
+`"It's ok, let's go back and do it again" x 6 or 7 times, literally. - One of my fav bioinfo managers ever, while I was a Bioinformatician III in industry. We were trying to get a SQL sequence/code correct for looking at Genome In A Bottle data (our own downsampling project) on Teams, we had to keep re-writing it on the spot but everytime, very calmly they just said "Ok, let's go back and do it again." There's so much wisdom, elegance, class, patience in how they handled that and other things too. Multiple people worked on this including myself. I believe this was in 2022`
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
