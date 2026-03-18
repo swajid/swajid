@@ -134,4 +134,8 @@ Here are some ideas to get you started:
 
 `"We want to know what your brain can do with this sequencing data we have sitting around." - PI to me on my first day as a Bioinformaticist (2012) (see our published paper from 2013 for results of that effort)`
 
+`“the arc of the moral universe is long, but it bends toward justice” - MLK Jr. & "if you wait long enough (or if you have enough patience), there's a phenomenal conclusion to injustice" - my dad (it was about some illegal zoning thing based on/rooted in racism)"`
+
+`"miserable failure is not an option" - norm macdonald (i've been saying this for years!)`
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
