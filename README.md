@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 * [The difference between a (sports) coach and an advisor & you could need both, very interesting](https://www.youtube.com/watch?v=oHDq1PcYkT4)
 * [Sometimes you need to wander (e.g. play around with ideas) before you win](https://www.tiktok.com/@david_epstein/video/7617579858826235149)
-
+* You can exploit a feature, but also remember, [you can also exploit a bug](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1.full.pdf)
 ## My Current Side Projects (Winter/Spring 2026)
 * Latin (via Duolingo) (was offered but I didn't take it in hs but wanted to learn since A.P. European History) <!-- bc Im going to do everything I always and ever wanted to do --> 
 
