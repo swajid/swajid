@@ -73,6 +73,18 @@ Here are some ideas to get you started:
 * [🧬 `streamlit-bioinformatics-tools`](https://app-bioinformatics-tools.streamlit.app/) (Summer & Fall 2024)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR) (2013-2014)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
+* [GenomicPalindromesR](https://github.com/swajid/GenomicPalindromesR) (Archived)
+
+# Pipelines
+* [Snakemake Workflows For ChIP-seq, RNA-seq and ATAC-seq Updated/Modernized For 2026 From 2017](https://github.com/swajid/Snakemake-Pipelines-ChIPseq-RNAseq-ATAC-seq_Updated_With_Current_Best_Practices_For_2026_From_2017)
+
+# Dataviz
+* [Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026](https://github.com/swajid/Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026)
+* [OmicsHeatmapsR](https://github.com/swajid/OmicsHeatmapsR) (*Probably* planning on submitting to Bioconductor with updates, ~Summer/Fall 2026)
+
+# Bioinformatics Process Documentation / Notes
+* [Pre-processing Rare-Variant GWAS Exome-Chip Data Using Illumina GenomeStudio and PLINK](https://github.com/swajid/rare-variant-exomechip-gwas-qc)
+* [Methodology for Developing UI for ML and AI Tools in Biomedical and Health Informatics In The Most Updated And The Correct Way For 2026 And Onward](https://github.com/swajid/Methodology_For_Developing_UI_For_ML_AI_Tools)
 
 # 📚 Scientific and Technical Writing
 * [💉 *From Obesity Drug Design to System Design: Pairing GLP-1s With Metabolic AI Digital Twins,* herlog.com. February 17, 2026 ](https://www.herlog.com/from-obesity-drug-design-to-system-design-pairing-glp-1s-with-metabolic-ai-digital-twins/)
