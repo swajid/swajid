@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
-![img](what-im-reading-or-re-reading-winter-2026_pt2.png)
+![i[mg](what-im-reading-or-re-reading-winter-2026_pt2.png)
 
 * [The difference between a (sports) coach and an advisor & you could need both, very interesting](https://www.youtube.com/watch?v=oHDq1PcYkT4)
 * [Sometimes you need to wander (e.g. play around with ideas) before you win](https://www.tiktok.com/@david_epstein/video/7617579858826235149)
 * You can exploit a feature, but also remember, [you can also exploit a bug](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1.full.pdf)
+* [Stop chasing passion. Chase contribution. Build a body of work people can see. Stay curious, because cynicism closes more doors than it opens.](https://www.instagram.com/reel/DV7NQXWjEjj)
+
 ## My Current Side Projects (Winter/Spring 2026)
 * Latin (via Duolingo) (was offered but I didn't take it in hs but wanted to learn since A.P. European History) <!-- bc Im going to do everything I always and ever wanted to do --> 
 
@@ -128,6 +130,8 @@ Here are some ideas to get you started:
 
 `"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." - my brother`
 
+<details>
+
 `"It's just LiesGPT" or "They're using LiesGPT" - my dad (watching press conferences on the news)`
 
 `"It's ok, let's go back and do it again" x 6 or 7 times, literally. - One of my fav bioinfo managers ever, while I was a Bioinformatician III in industry. We were trying to get a SQL sequence/code correct for looking at Genome In A Bottle data (our own downsampling project) on Teams, we had to keep re-writing it on the spot but everytime, very calmly they just said "Ok, let's go back and do it again." There's so much wisdom, elegance, class, patience in how they handled that and other things too. Multiple people worked on this including myself. I believe this was in 2022`
@@ -137,5 +141,7 @@ Here are some ideas to get you started:
 `“the arc of the moral universe is long, but it bends toward justice” - MLK Jr. & "if you wait long enough (or if you have enough patience), there's a phenomenal conclusion to injustice" - my dad (it was about some illegal zoning thing based on/rooted in racism)"`
 
 `"miserable failure is not an option" - norm macdonald (i've been saying this for years!)`
+
+</details>
 
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
