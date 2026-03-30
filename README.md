@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 # Fun Facts About Me
 * All by myself and for work, I lived in Montgomery County twice in two different states: Bala Cynwyd (Part of "Main line"), Pennsylvania and then again in Bethesda, Maryland
 * My favorite aphorism of all time is "measure twice, cut once" there's so much wisdom in just those four simple words
-* One of my all time favorite movies since it came out is The Aviator (2004), my favorite scene being the Senate hearings (still even better than the Senate hearings in Succession), my favorite line from any movie ever, is from that scene "Well, what the hell does a Senator from Maine need to visit Peru for?" It is just great, absolutely just great, and greatly underrated imo and I think of this line often enough since I first watched this movie. I could probably write books on this one line from this underrated movie.
+* One of my all time favorite movies since it came out is The Aviator (2004), my favorite scene being the Senate hearings (still even better than the Senate hearings in Succession), my favorite line from any movie ever, is from that scene "Well, what the hell does a Senator from Maine need to visit Peru for?" It is just great, absolutely just great, and greatly underrated imo and I think of this line often enough since I first watched this movie. I could probably write books on this one line from this underrated movie. Edit: It's a [Scorsese movie](https://www.youtube.com/watch?v=0MXSAwkVU3U), that is why the scene with the hearings is just so great.
 
 # Chill Studying Music
 * `https://www.youtube.com/watch?v=Sf36e7w70pg`
