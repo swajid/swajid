@@ -134,6 +134,8 @@ Here are some ideas to get you started:
 
 # Fun Facts About Me
 * All by myself and for work, I lived in Montgomery County twice in two different states: Bala Cynwyd (Part of "Main line"), Pennsylvania and then again in Bethesda, Maryland
+* My favorite aphorism of all time is "measure twice, cut once" there's so much wisdom in just those four simple words
+
 
 # Chill Studying Music
 * `https://www.youtube.com/watch?v=Sf36e7w70pg`
