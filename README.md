@@ -82,6 +82,9 @@ Here are some ideas to get you started:
 * [Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026](https://github.com/swajid/Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026)
 * [OmicsHeatmapsR](https://github.com/swajid/OmicsHeatmapsR) (*Probably* planning on submitting to Bioconductor with updates, ~Summer/Fall 2026)
 
+# Data Science
+* [BoliviaLeadR](https://github.com/swajid/BoliviaLeadR)
+
 # Bioinformatics Process Documentation / Notes
 * [Pre-processing Rare-Variant GWAS Exome-Chip Data Using Illumina GenomeStudio and PLINK](https://github.com/swajid/rare-variant-exomechip-gwas-qc)
 * [Methodology for Developing UI for ML and AI Tools in Biomedical and Health Informatics In The Most Updated And The Correct Way For 2026 And Onward](https://github.com/swajid/Methodology_For_Developing_UI_For_ML_AI_Tools)
@@ -129,7 +132,7 @@ Here are some ideas to get you started:
 
 ![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
 ![img](i-subtweet-once-and-thats-it_thats-all.png)
-![img](diet.png)
+[![img](diet.png)](https://github.com/swajid/BoliviaLeadR)
 ![img](some-posts-that-are-my-all-time-favorites.png)
 
 
