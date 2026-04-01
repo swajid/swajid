@@ -129,6 +129,7 @@ Here are some ideas to get you started:
 
 ![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
 ![img](i-subtweet-once-and-thats-it_thats-all.png)
+![img](diet.png)
 ![img](some-posts-that-are-my-all-time-favorites.png)
 
 
