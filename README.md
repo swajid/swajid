@@ -162,4 +162,6 @@ Here are some ideas to get you started:
 
 </details>
 
+I am a proud product of New Jersey’s taxpayer-funded public education system, consistently ranked among the nation’s best and strongest.
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
