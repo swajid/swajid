@@ -151,6 +151,8 @@ I think you owe it to yourself to accept a rejection and move past it, learn fro
 
 Mark Twain talking about his education being the Mississippi River itself, as the steamboat pilot, paying close attention to it, is one of my favorite things I've ever read as an adult. Nature can teach you a lot, you have to pay attention to it and to things. (will link later)
 
+My favorite line from Spongebob is ["its good for your soul"](https://www.youtube.com/watch?v=kuCZ3-2Vs30) and [Patrick reading the compass wrong](https://www.youtube.com/watch?v=cajYS08Xbmc)
+
 </details>
 
 # Chill Studying Music
