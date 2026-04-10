@@ -153,6 +153,8 @@ Mark Twain talking about his education being the Mississippi River itself, as th
 
 My favorite line from Spongebob is ["its good for your soul"](https://www.youtube.com/watch?v=kuCZ3-2Vs30) and [Patrick reading the compass wrong](https://www.youtube.com/watch?v=cajYS08Xbmc)
 
+One of my favorite [MADTv sketches](https://www.youtube.com/watch?v=dxUseEZbxEg) is of the criminal who admits to everything he's ever done (lol)
+
 </details>
 
 # Chill Studying Music
