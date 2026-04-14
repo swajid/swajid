@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 ![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
 ![img](i-subtweet-once-and-thats-it_thats-all.png)
-[![img](diet.png)](https://github.com/swajid/BoliviaLeadR)
+[![img](diet.png)](https://www.tiktok.com/@oceanspirited/video/7623078150318132500) #(https://github.com/swajid/BoliviaLeadR)
 ![img](some-posts-that-are-my-all-time-favorites.png)
 
 
