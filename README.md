@@ -129,6 +129,7 @@ Here are some ideas to get you started:
 
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
+[![img](think-well.png)](https://en.wikipedia.org/wiki/Y_Combinator)
 ![img](continuing.png)
 ![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
 ![img](i-subtweet-once-and-thats-it_thats-all.png)
