@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
-![i[mg](what-im-reading-or-re-reading-winter-2026_pt2.png)
-
-* [The difference between a (sports) coach and an advisor & you could need both, very interesting](https://www.youtube.com/watch?v=oHDq1PcYkT4)
-* [Sometimes you need to wander (e.g. play around with ideas) before you win](https://www.tiktok.com/@david_epstein/video/7617579858826235149)
-* You can exploit a feature, but also remember, [you can also exploit a bug](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1.full.pdf)
-* [Stop chasing passion. Chase contribution. Build a body of work people can see. Stay curious, because cynicism closes more doors than it opens.](https://www.instagram.com/reel/DV7NQXWjEjj)
-
-## My Current Side Projects (Winter/Spring 2026)
-* Latin (via Duolingo) (was offered but I didn't take it in hs but wanted to learn since A.P. European History) <!-- bc Im going to do everything I always and ever wanted to do --> 
 
 # 📊 Code
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
@@ -73,21 +64,6 @@ Here are some ideas to get you started:
 * [🧬 `streamlit-bioinformatics-tools`](https://app-bioinformatics-tools.streamlit.app/) (Summer & Fall 2024)
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR) (2013-2014)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
-* [GenomicPalindromesR](https://github.com/swajid/GenomicPalindromesR) (Archived)
-
-# Pipelines
-* [Snakemake Workflows For ChIP-seq, RNA-seq and ATAC-seq Updated/Modernized For 2026 From 2017](https://github.com/swajid/Snakemake-Pipelines-ChIPseq-RNAseq-ATAC-seq_Updated_With_Current_Best_Practices_For_2026_From_2017)
-
-# Dataviz
-* [Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026](https://github.com/swajid/Heatmaps_RNA-seq-ChIP-seq-ATAC-seq_2026)
-* [OmicsHeatmapsR](https://github.com/swajid/OmicsHeatmapsR) (*Probably* planning on submitting to Bioconductor with updates, ~Summer/Fall 2026)
-
-# Data Science
-* [BoliviaLeadR](https://github.com/swajid/BoliviaLeadR)
-
-# Bioinformatics Process Documentation / Notes
-* [Pre-processing Rare-Variant GWAS Exome-Chip Data Using Illumina GenomeStudio and PLINK](https://github.com/swajid/rare-variant-exomechip-gwas-qc)
-* [Methodology for Developing UI for ML and AI Tools in Biomedical and Health Informatics In The Most Updated And The Correct Way For 2026 And Onward](https://github.com/swajid/Methodology_For_Developing_UI_For_ML_AI_Tools)
 
 # 📚 Scientific and Technical Writing
 * [💉 *From Obesity Drug Design to System Design: Pairing GLP-1s With Metabolic AI Digital Twins,* herlog.com. February 17, 2026 ](https://www.herlog.com/from-obesity-drug-design-to-system-design-pairing-glp-1s-with-metabolic-ai-digital-twins/)
@@ -129,56 +105,10 @@ Here are some ideas to get you started:
 
 # 🗃️ Papers
 * [Google Scholar](https://scholar.google.com/citations?user=FdoMHg8AAAAJ&hl=en&oi=ao)
-[![img](think-well.png)](https://en.wikipedia.org/wiki/Y_Combinator)
-![img](continuing.png)
-![img](2019-my-apartment-in-bethesda-and-also-my-home-office-as-a-data-scientist.png)
-![img](i-subtweet-once-and-thats-it_thats-all.png)
-[![img](diet.png)](https://www.tiktok.com/@oceanspirited/video/7623078150318132500) #(https://github.com/swajid/BoliviaLeadR)
-![img](some-posts-that-are-my-all-time-favorites.png)
 
-
-# Fun Facts About Me
-* All by myself and for work, I lived in Montgomery County twice in two different states: Bala Cynwyd (Part of "Main line"), Pennsylvania and then again in Bethesda, Maryland
-* My favorite aphorism of all time is "measure twice, cut once" there's so much wisdom in just those four simple words
-* One of my all time favorite movies since it came out is The Aviator (2004), my favorite scene being the Senate hearings (still even better than the Senate hearings in Succession), my favorite line from any movie ever, is from that scene "Well, what the hell does a Senator from Maine need to visit Peru for?" It is just great, absolutely just great, and greatly underrated imo and I think of this line often enough since I first watched this movie. I could probably write books on this one line from this underrated movie. Edit: It's a [Scorsese movie](https://www.youtube.com/watch?v=0MXSAwkVU3U), that is why the scene with the hearings is just so great.
-* My other favorite movie of all time, #1 being Prometheus (2012), is [Garden State](https://www.youtube.com/watch?v=Ziwr4f5eR0M) (2004) since it came out, which takes place in NJ. I generally like tv shows/movies that take place in NJ/NYC.
-<details>
-
- One of my favorite jokes from 30 Rock is, ["In Cleveland, I'm a model" "Yeah, we're all models west of the Allegheny"](https://youtu.be/gW-jCSerzfM?t=170) I know it's a Tina Fey joke (who grew up outside of Philly in the suburbs, near where I once lived, so I get it), I just know she specifically wrote that joke. I would update it to south of Princeton, NJ, but then you have to fight for your life in parts of D.C.
- 
-As someone who has been on the internet since the mid-late-90s, the greatest experience I've ever had on the internet is TikTok. I love hearing/listening to [women POC](https://www.tiktok.com/@faiisom/video/7626862194205953310) talk about things, their interests, their experiences, their advice and their forewarnings. It's too bad there's so much noise on the internet, and that people get paid to say things, it's just too bad. That is my definition of "free speech," speech that is free from money someone is receiving to say something. I love listening to young people, because I was a younger person once and (alot of) people didn't care what I had to say bc they thought I didn't know anything, but I did. #2 favorite site is Wikipedia which I have been using since HS, so I know how it works, and in undergrad, (I can't find it) I wrote a 30 page paper on how it works, so I know how it works, the philosophy behind it, everything. I've been using it for such a long time, that I remember what an article looked like 20 yrs ago (lol).
-
-I think you owe it to yourself to accept a rejection and move past it, learn from it and move on. Yes, that's true. Some rejections are normal. Some rejections are a fact of life. However, you owe to yourself, if you think something is off, something isn't right and figure it out because whatever is on the otherside of that nested rabbit hole of rabbit holes, is worth it, because you worked hard for it.
-
-Mark Twain talking about his education being the Mississippi River itself, as the steamboat pilot, paying close attention to it, is one of my favorite things I've ever read as an adult. Nature can teach you a lot, you have to pay attention to it and to things. (will link later)
-
-My favorite line from Spongebob is ["its good for your soul"](https://www.youtube.com/watch?v=kuCZ3-2Vs30) and [Patrick reading the compass wrong](https://www.youtube.com/watch?v=cajYS08Xbmc)
-
-One of my favorite [MADTv sketches](https://www.youtube.com/watch?v=dxUseEZbxEg) is of the criminal who admits to everything he's ever done (lol)
-
-</details>
-
-# Chill Studying Music
-* `https://www.youtube.com/watch?v=Sf36e7w70pg`
 
 `I dedicate all of my work and everything good I have done and will ever do to my parents, who are intelligent, wise, funny, honest and hard-working people that have taught me, by example, to pay serious attention to the details in everything I do. I have always done all of my work, all by myself. My work is my power and I, as I always have done, take pride in it.`
 
 `"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." - my brother`
-
-<details>
-
-`"It's just LiesGPT" or "They're using LiesGPT" - my dad (watching press conferences on the news)`
-
-`"It's ok, let's go back and do it again" x 6 or 7 times, literally. - One of my fav bioinfo managers ever, while I was a Bioinformatician III in industry. We were trying to get a SQL sequence/code correct for looking at Genome In A Bottle data (our own downsampling project) on Teams, we had to keep re-writing it on the spot but everytime, very calmly they just said "Ok, let's go back and do it again." There's so much wisdom, elegance, class, patience in how they handled that and other things too. Multiple people worked on this including myself. I believe this was in 2022`
-
-`"We want to know what your brain can do with this sequencing data we have sitting around." - PI to me on my first day as a Bioinformaticist (2012) (see our published paper from 2013 for results of that effort)`
-
-`“the arc of the moral universe is long, but it bends toward justice” - MLK Jr. & "if you wait long enough (or if you have enough patience), there's a phenomenal conclusion to injustice" - my dad (it was about some illegal zoning thing based on/rooted in racism)"`
-
-`"miserable failure is not an option" - norm macdonald (i've been saying this for years!)`
-
-</details>
-
-I am a proud product of New Jersey’s taxpayer-funded public education system, consistently ranked among the nation’s best and strongest.
 
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
