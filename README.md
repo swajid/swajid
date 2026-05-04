@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 * [🧬 *Synthesizing a novel genetic sequential logic circuit: a push-on push-off switch*](bistableswitch-sw-seminar-f11.pdf) , Presented for course, "Seminar in Biotechnology" (126:401), Fall 2011, Final Grade: A
 
-* [🧬 *Complex Circuits in Synthetic Biology: The Bacterial Full Adder*](bacterialfulladder-sw-seminar-f11.pdf) , Presented for (Final Yr level) course, "Seminar in Biotechnology" (126:401), Fall 2011, Final Grade: A (again, names listed were of the presentation order in the conference in Oct 2011, I was the Team Founder & Leader)
+* [🧬 *Complex Circuits in Synthetic Biology: The Bacterial Full Adder*](bacterialfulladder-sw-seminar-f11.pdf) , Presented for (Final Yr level) course, "Seminar in Biotechnology" (126:401), Fall 2011, Final Grade: A (again, names listed were of the presentation order in the conference in Oct 2011, I was the Team Founder & Leader (by the way, in fact, I probably still am the Team Founder & Team Leader, it depends on who you ask.))
 
 * [🧬 *Synthetic Biology: Helping to build marvelous microbes of the future*](synbiology-mmicrobes-sw-clqm-f11.pdf) , Presented for course, "Biochemistry (Final Yr level) Colloquium: Marvelous Microbes" (015:429), Spring 2012, Final Grade: A
 
