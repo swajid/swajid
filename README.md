@@ -78,6 +78,12 @@ Here are some ideas to get you started:
 
 * [🧬 *Structure-function relationship of FAD-dependent pyridine nucleotide-disulfide oxidoreductase in *Anaeromyxobacter dehalogenans* 2CP-C reveals perhaps, a unique mechanism for transferring reducing equivalents*, (Cross-listed) Second-Year (Level 600) Graduate Level Course: *Homology Modeling of Proteins* Final Paper, Course Grade: A, December 20, 2013](swajid-2013-Homology-Modeling-Final.pdf)
 
+* [🧬 *Synthesizing a novel genetic sequential logic circuit: a push-on push-off switch*](bistableswitch-sw-seminar-f11.pdf) , Presented for course, "Seminar in Biotechnology" (126:401), Fall 2011, Final Grade: A
+
+* [🧬 *Complex Circuits in Synthetic Biology: The Bacterial Full Adder*](bacterialfulladder-sw-seminar-f11.pdf) , Presented for (Final Yr level) course, "Seminar in Biotechnology" (126:401), Fall 2011, Final Grade: A
+
+* [🧬 *Synthetic Biology: Helping to build marvelous microbes of the future*](synbiology-mmicrobes-sw-clqm-f11.pdf) , Presented for course, "Biochemistry (Final Yr level) Colloquium: Marvelous Microbes" (015:429), Spring 2012, Final Grade: A
+
 
 # 🏆 Certificates
 * [👩🏻‍💻 Introduction to Computational Thinking and Data Science, MITx, December 23, 2014](https://verify.edx.org/cert/aa83389ceceb4ae38eb4c93cba4f84be) <!-- (https://s3.amazonaws.com/verify.edx.org/downloads/3e60269af98e4422a80f6d1375d391f7/Certificate.pdf) -->
@@ -90,6 +96,7 @@ Here are some ideas to get you started:
 ## ⚙️ Rutgers GEARS: *Genetic Engineering at Rutgers Society* - Founder and President
 ![img](rutgers-igem-poster-2011.png)
 ![img](rutgers-igem-team-smaller.png)
+![img](wiki_p3.png)
 ![img](rutgers-gears-logo-2011.png)
 ![img](rutgers-igem_bacterial-etch-a-sketch.png)
 ![img](rutgers-igem_bacterial-full-adder-logo.png)
@@ -98,6 +105,7 @@ Here are some ideas to get you started:
 
 ## 🧬 Rutgers Bhattacharya Algal Genomics Lab - Bioinformaticist (Jan 2012 - May 2014)
 ![img](rutgers-bhattacharya-lab-2012-phycological-society-of-america-poster-charleston-sc.png)
+![img](stuff.png)
 
 ## 🧬 Rutgers Structural Biology Computational Lab - Homology Protein Modeling - Student Researcher (2011 - 2015)
 ![img](rutgers-homology-model-of-yp_466500.png)
