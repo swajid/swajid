@@ -123,3 +123,5 @@ Here are some ideas to get you started:
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
 * [Public Dropbox from undergrad](https://www.dropbox.com/scl/fo/wldb8lg9kg14fn1ftisf8/ACxALV7sNphC8c1-Cd7pHKc?rlkey=rktakv0ddy1caxp6452ft7m7c&e=1&st=5tn5k71v&dl=0) <!-- with timestamps -->
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
+
+(Will update this with the actual picture but ...) A picture of my late-grandfather, dressed up as he usually would, who passed away in the mid-90s. Back then, you would get your blood glucose reading once a month and your doctor would review it with you, but that **one reading** was **a month old**. How things have changed in science in such, one could argue, a short amount of time, is what makes and keeps me optimistic.
