@@ -127,3 +127,5 @@ Here are some ideas to get you started:
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
 
 (Will update this with the actual picture but ...) A picture of my late-grandfather, dressed up as he usually would, who passed away in the mid-90s. Back then, you would get your blood glucose reading once a month and your doctor would review it with you, but that **one reading** was **a month old**. How things have changed in science in such, one could argue, a short amount of time, is what makes and keeps me optimistic.
+
+Another story. [My brother's friend from hs](https://nyulangone.org/doctors/1013320423/paawan-v-punjabi) mastered ... and I mean, mastered, spanish on duolingo (during med school too), because he anticipated having patients who would speak spanish.
