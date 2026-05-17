@@ -120,6 +120,8 @@ Here are some ideas to get you started:
 
 `"People always come up to me and ask me, how am I so patient with my students and people I'm managing and I tell them, I learned it by having to be patient with my parents." & "Stop chasing small fry projects in ML/AI, think bigger (in terms of ML/AL math/cs etc)." - my brother`
 
+`"this instrument/measurement tool (in his office) is made by a small company in Germany, and they are so good, that no company could compete with them or buy them out bc they could not re-create that machine to this day." - my eye doctor`
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
 * [Public Dropbox from undergrad](https://www.dropbox.com/scl/fo/wldb8lg9kg14fn1ftisf8/ACxALV7sNphC8c1-Cd7pHKc?rlkey=rktakv0ddy1caxp6452ft7m7c&e=1&st=5tn5k71v&dl=0) <!-- with timestamps -->
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
