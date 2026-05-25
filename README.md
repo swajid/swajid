@@ -122,6 +122,8 @@ Here are some ideas to get you started:
 
 `"this instrument/measurement tool (in his office) is made by a small company in Germany, and they are so good, that no company could compete with them or buy them out bc they could not re-create that machine to this day." - my eye doctor i.e. be so good that they can't 1. compete with you 2. buy you out -> all because the focus is on patients, helping patients.`
 
+<!-- i'm always working, i've always been working since hs & i barely watch tv anymore. im always reading (non-fiction), writing, w/e i have to do to stay current & ahead. so, if you're only working 5 days a week, i can out work you. if you're only working 6 days a week (i.e. you have a sabbatical of some sorts on saturdays), i can out work you too. don't play no game that i cant win. -->
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
 * [Public Dropbox from undergrad](https://www.dropbox.com/scl/fo/wldb8lg9kg14fn1ftisf8/ACxALV7sNphC8c1-Cd7pHKc?rlkey=rktakv0ddy1caxp6452ft7m7c&e=1&st=5tn5k71v&dl=0) <!-- with timestamps -->
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
