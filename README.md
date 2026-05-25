@@ -124,6 +124,8 @@ Here are some ideas to get you started:
 
 <!-- i'm always working, i've always been working since hs & i barely watch tv anymore & i barely hang out with ppl outside of family bc i really dont trust them. im always reading (non-fiction), writing, w/e i have to do to stay current & ahead. so, if you're only working 5 days a week, i can out work you. if you're only working 6 days a week (i.e. you have a sabbatical of some sorts on saturdays), i can out work you too. don't play no game that i cant win. oh and before i have to show you that i can out-work you, i was already able to out-think you, bc im always thinking too, productively too. now are we on the same page here? ok! good! those are not even my favorite parts about myself, i can out-wit you, i can out-class you. people like me and i dont have to force it or fake it. i can stand on my own two feet so i dont have to fold like origami for anyone. dont ever forget who it was you picked a fight with. i dont bar hop in brooklyn, never did that, dont know anything around me/went to hs with that im still friends with, that would do that, never will, absolutely not. i dont waste time like that. so look at me & look at u now. -->
 
+
+
 # [📸](https://www.instagram.com/imsanawaji/) [🐤](https://twitter.com/imsanaw) [☁️](https://bsky.app/profile/herlog.com) [💻](https://rosalind.info/users/imsanaw/)
 * [Public Dropbox from undergrad](https://www.dropbox.com/scl/fo/wldb8lg9kg14fn1ftisf8/ACxALV7sNphC8c1-Cd7pHKc?rlkey=rktakv0ddy1caxp6452ft7m7c&e=1&st=5tn5k71v&dl=0) <!-- with timestamps -->
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
@@ -131,3 +133,6 @@ Here are some ideas to get you started:
 (Will update this with the actual picture but ...) A picture of my late-grandfather, dressed up as he usually would, who passed away in the mid-90s. Back then, you would get your blood glucose reading once a month and your doctor would review it with you, but that **one reading** was **a month old**. How things have changed in science in such, one could argue, a short amount of time, is what makes and keeps me optimistic.
 
 Another story. [My brother's friend from hs](https://nyulangone.org/doctors/1013320423/paawan-v-punjabi) mastered ... and I mean, mastered, spanish on duolingo (during med school too), because he anticipated having patients who would speak spanish.
+
+I really & truly believe, that the greatest achievement anyone can achieve, anywhere in the world, is not money or followers etc., but if someone else can say about that person "i trust my life with this person." (my brother has said this about one of his friends in grad school) (i.e. they have good judgement & they have good character, they're honest, when no one is looking they do the right thing etc.)" and that could be some very poor person somewhere in the world, doesn't matter.
+
