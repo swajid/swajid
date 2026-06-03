@@ -138,3 +138,4 @@ Another story. [My brother's friend from hs](https://nyulangone.org/doctors/1013
 
 I really & truly believe, that the greatest achievement anyone can achieve, anywhere in the world, is not money or followers etc., but if someone else can say about that person "i trust my life with this person." (my brother has said this about one of his friends in grad school) (i.e. they have good judgement & they have good character, they're honest, when no one is looking they do the right thing etc.)" and that could be some very poor person somewhere in the world, doesn't matter.
 
+[treasure ur attention, companies are trying/fighting to take it away from you](https://www.instagram.com/reel/DYVRDyDlRh8/)
