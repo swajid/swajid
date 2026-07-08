@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 [![img](art-and-sci-of-making-things.png)](https://www.youtube.com/watch?v=OZ01MH9BQqk)
+![img](think-well.png)
 
 # 📊 Code
 ## `current projects`
 * [⚓️ `odyssee-julia-notebooks` (Summer 2026)](https://github.com/swajid/odyssee-julia-notebooks)
 
 ![img](we-start-here-then-onward.png)
-  
+![img](continuing.png)
+
 * [⚓️ `Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_[2024/2025, ∞)`](https://github.com/swajid/Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-Ongoing)
 
 ## `else`
