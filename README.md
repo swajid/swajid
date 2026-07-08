@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # 📊 Code
 ## `current projects`
 * [⚓️ `odyssee-julia-notebooks` (Summer 2026)](https://github.com/swajid/odyssee-julia-notebooks)
+* [⚓️ `Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_[2024/2025, ∞)`](https://github.com/swajid/Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-Ongoing)
 
 ## `else`
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
@@ -144,6 +145,8 @@ I really & truly believe, that the greatest achievement anyone can achieve, anyw
 
 # [treasure ur attention, companies are trying/fighting to take it away from you](https://www.instagram.com/reel/DYVRDyDlRh8/)
 
-`"they said i was so finished, i told 'em its show business" - lupe fiasco <3`
+`"they said i was so finished, i told 'em its show business"  - lupe fiasco <3`
+
+`"everything i'm not, made me everything i am - old kanye (album: "graduation")`
 
 `"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
