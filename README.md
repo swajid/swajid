@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 
 # 📊 Code
+## `current projects`
+* [⚓️ `odyssee-julia-notebooks` (Summer 2026)](https://github.com/swajid/odyssee-julia-notebooks)
+
+## `else`
 * [📑 `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
 * [👩🏻‍💻 `Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files`](https://github.com/swajid/Construct_partial_file_names_from_inexhaustive_excel_file_then_map_to_files_and_move_mapped_files)
 * [🧬 `iGEM-Rutgers-Software`](https://github.com/swajid/iGEM-Rutgers-Software)
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR) (2013-2014)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
 
-# 📚 Scientific and Technical Writing
+# 📚 (Soon: Computational), Scientific and Technical Writing
 * [💉 *From Obesity Drug Design to System Design: Pairing GLP-1s With Metabolic AI Digital Twins,* herlog.com. February 17, 2026 ](https://www.herlog.com/from-obesity-drug-design-to-system-design-pairing-glp-1s-with-metabolic-ai-digital-twins/)
 
 * [👩🏻‍💻 *Two ways to get started with `diff` for bioinformatics: using Python and also Excel to output a Bash shell script with pairwise file comparisons,* herlog.com. August 27, 2023](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
@@ -138,6 +142,8 @@ Another story. [My brother's friend from hs](https://nyulangone.org/doctors/1013
 
 I really & truly believe, that the greatest achievement anyone can achieve, anywhere in the world, is not money or followers etc., but if someone else can say about that person "i trust my life with this person." (my brother has said this about one of his friends in grad school) (i.e. they have good judgement & they have good character, they're honest, when no one is looking they do the right thing etc.)" and that could be some very poor person somewhere in the world, doesn't matter.
 
-[treasure ur attention, companies are trying/fighting to take it away from you](https://www.instagram.com/reel/DYVRDyDlRh8/)
+# [treasure ur attention, companies are trying/fighting to take it away from you](https://www.instagram.com/reel/DYVRDyDlRh8/)
 
 `"they said i was so finished, i told 'em its show business" - lupe fiasco <3`
+
+`"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
