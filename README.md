@@ -156,3 +156,5 @@ I really & truly believe, that the greatest achievement anyone can achieve, anyw
 `"everything i'm not, made me everything i am - old kanye (album: "graduation")`
 
 `"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
+
+![img](literally-nothing.png)
