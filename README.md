@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 [![img](art-and-sci-of-making-things.png)](https://www.youtube.com/watch?v=OZ01MH9BQqk)
 ![img](think-well.png)
-![img](advice-for-young-ppl.png)
+![img](advice-for-young-ppl-2.png)
 
 # 📊 Code
 ## `current projects`
