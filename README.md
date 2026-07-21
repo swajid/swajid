@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
-[![img](what-im-reading-or-re-reading-winter-2026-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
+[![img](what-im-reading-or-re-reading-winter-2026-updated-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
 [![img](art-and-sci-of-making-things.png)](https://www.youtube.com/watch?v=OZ01MH9BQqk)
 ![img](think-well.png)
 ![img](advice-for-young-ppl-2.png)
@@ -157,5 +157,7 @@ I really & truly believe, that the greatest achievement anyone can achieve, anyw
 `"everything i'm not, made me everything i am - old kanye (album: "graduation")`
 
 `"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
+
+Fun facts about me: Zayn Malik's country album, from and since 2024, is my de facto national anthem.
 
 ![img](literally-nothing.png)
