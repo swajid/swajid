@@ -158,7 +158,9 @@ I really & truly believe, that the greatest achievement anyone can achieve, anyw
 
 `"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
 
-Fun facts about me: Zayn Malik's country album, from and since 2024, is my de facto national anthem.
+Fun facts about me: Zayn Malik's country album, from and since 2024, is my de facto national anthem. Lina Khan (Former FTC Chair), Riz Ahmed, Arooj Aftab (Grammy-winner), Hasan Minhaj, Mehdi Hasan etc. -> Are my North Stars in our current crazy times, idc what a lot of ppl are doing or what they have to say, I'm going to be myopic right back with who i pay attention to, on and with purpose, right back, absolutely on purpose.
+
+
 
 ![img](literally-nothing.png)
 
