@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 [![img](art-and-sci-of-making-things.png)](https://www.youtube.com/watch?v=OZ01MH9BQqk)
 ![img](think-well.png)
 ![img](advice-for-young-ppl-2.png)
+![img](whiteboard-pt1.png)
+![img](whiteboard-pt2.png)
+
 
 # 📊 Code
 ## `current projects`
