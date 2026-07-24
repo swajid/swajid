@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![img](advice-for-young-ppl-2.png)
 ![img](whiteboard-pt1.png)
 ![img](whiteboard-pt2.png)
-
+![img](whiteboard-pt3.png)
 
 # 📊 Code
 ## `current projects`
