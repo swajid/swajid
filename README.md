@@ -164,4 +164,6 @@ Fun facts about me: Zayn Malik's country album, from and since 2024, is my de fa
 
 ![img](literally-nothing.png)
 
+![img](everyone-is-lisa.png)
+
 <!-- diet.png -> yep, it's true, he really is that pathetic and crazy & and that #diet is still on the backburner. what makes it absolute perfection is that it's a cry for help to his followers, literally strangers on the internet and some high percentage of those are just bots ROTFL i have to frame this tweet next to my rutgers diploma one day -->
