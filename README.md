@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## `current projects`
 * [⚓️ `odyssee-julia-notebooks` (Summer 2026)](https://github.com/swajid/odyssee-julia-notebooks)
 
-![img](we-start-here-then-onward.png)
+![img](it-takes-a-village.png)
 ![img](continuing.png)
 
 * [⚓️ `Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_[2024/2025, ∞)`](https://github.com/swajid/Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-Ongoing)
