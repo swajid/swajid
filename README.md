@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 📚 What I'm Currently Reading Or Re-Reading (Non-Fiction)
-[![img](what-im-reading-or-re-reading-winter-2026-updated-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)
+
+<!--[![img](what-im-reading-or-re-reading-winter-2026-updated-updated.png)](https://www.instagram.com/reel/DVHDTTYigbH/)-->
+![img](what-im-reading-or-re-reading-winter-2026.png)
 [![img](art-and-sci-of-making-things.png)](https://www.youtube.com/watch?v=OZ01MH9BQqk)
 ![img](think-well.png)
+
+<!--
 ![img](advice-for-young-ppl-2.png)
 ![img](whiteboard-pt1.png)
 ![img](whiteboard-pt2.png)
 ![img](whiteboard-pt3.png)
+-->
 
 # 📊 Code
 ## `current projects`
@@ -80,7 +85,7 @@ Here are some ideas to get you started:
 * [🧬 `treeSortR`](https://github.com/swaijd-rtg/treeSortR) (2013-2014)
 * 🧬 `Unified_Taxonomic_Classifier` (Fall 2024)
 
-# 📚 (Soon: Computational), Scientific and Technical Writing
+# 📚 (Soon: Computational), Scientific and Technical Writing (herlog.com will be back up Nov 2026)
 * [💉 *From Obesity Drug Design to System Design: Pairing GLP-1s With Metabolic AI Digital Twins,* herlog.com. February 17, 2026 ](https://www.herlog.com/from-obesity-drug-design-to-system-design-pairing-glp-1s-with-metabolic-ai-digital-twins/)
 
 * [👩🏻‍💻 *Two ways to get started with `diff` for bioinformatics: using Python and also Excel to output a Bash shell script with pairwise file comparisons,* herlog.com. August 27, 2023](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
@@ -147,11 +152,14 @@ Here are some ideas to get you started:
 * [Public Dropbox from undergrad](https://www.dropbox.com/scl/fo/wldb8lg9kg14fn1ftisf8/ACxALV7sNphC8c1-Cd7pHKc?rlkey=rktakv0ddy1caxp6452ft7m7c&e=1&st=5tn5k71v&dl=0) <!-- with timestamps -->
 * [Public Stackoverflow account, started/made in undergrad](https://stackoverflow.com/users/2005192/laemtao)
 
+<!--
+
 (Will update this with the actual picture but ...) A picture of my late-grandfather, dressed up as he usually would, who passed away in the mid-90s. Back then, you would get your blood glucose reading once a month and your doctor would review it with you, but that **one reading** was **a month old**. How things have changed in science in such, one could argue, a short amount of time, is what makes and keeps me optimistic.
 
 Another story. [My brother's friend from hs](https://nyulangone.org/doctors/1013320423/paawan-v-punjabi) mastered ... and I mean, mastered, spanish on duolingo (during med school too), because he anticipated having patients who would speak spanish.
 
 I really & truly believe, that the greatest achievement anyone can achieve, anywhere in the world, is not money or followers etc., but if someone else can say about that person "i trust my life with this person." (my brother has said this about one of his friends in grad school) (i.e. they have good judgement & they have good character, they're honest, when no one is looking they do the right thing etc.)" and that could be some very poor person somewhere in the world, doesn't matter.
+-->
 
 # [treasure ur attention, companies are trying/fighting to take it away from you](https://www.instagram.com/reel/DYVRDyDlRh8/)
 
@@ -161,9 +169,9 @@ I really & truly believe, that the greatest achievement anyone can achieve, anyw
 
 `"a vector doesn't care where it starts — only that it has a direction and refuses to stop; setbacks just change the arrow, never the fact that it's still moving."`
 
-Fun facts about me: Zayn Malik's country album, from and since 2024, is my de facto national anthem. Lina Khan (Former FTC Chair), Riz Ahmed, Arooj Aftab (Grammy-winner), Hasan Minhaj, Mehdi Hasan etc. -> Are my North Stars in our current crazy times, idc what a lot of ppl are doing or what they have to say, I'm going to be myopic right back with who i pay attention to, on and with purpose, right back, absolutely on purpose.
+<!-- Fun facts about me: Zayn Malik's country album, from and since 2024, is my de facto national anthem. Lina Khan (Former FTC Chair), Riz Ahmed, Arooj Aftab (Grammy-winner), Hasan Minhaj, Mehdi Hasan etc. -> Are my North Stars in our current crazy times, idc what a lot of ppl are doing or what they have to say, I'm going to be myopic right back with who i pay attention to, on and with purpose, right back, absolutely on purpose. -->
 
-
+<!--
 
 ![img](literally-nothing.png)
 
@@ -172,5 +180,6 @@ Fun facts about me: Zayn Malik's country album, from and since 2024, is my de fa
 ![img](AI-this-and-AI-that.png)
 
 ### I'll go even farther: someone, with a microphone or w/e, talking about AI, can take advantage of you if you are not still ACTIVELY programming. I'll listen, sure, but I don't take you too seriously if you're not writing actual code. FYI - and a lot of people who are talking about guardrails for AI, are actually writing code, but some are horrible at debating/presenting/organizing their thoughts/ideas properly, which is whole another thing all together & that is why "the hottest new programming language is English." Even further -> you don't want somebody's armchair guess about AI to become YOUR target, right? So it matters! [see goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law) & [having skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) -> the guess should not be the target.
+-->
 
 <!-- diet.png -> yep, it's true, he really is that pathetic and crazy & and that #diet is still on the backburner. what makes it absolute perfection is that it's a cry for help to his followers, literally strangers on the internet and some high percentage of those are just bots ROTFL i have to frame this tweet next to my rutgers diploma one day -->
