@@ -195,7 +195,16 @@ Word-level identity = 81.82%
 Mismatches = 0
 Gap positions = 6
 Identity excluding gaps = 100%
-
+```
+```
+Parenthesis Notation:
+((··)(━━━━━━)(····)(━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━))
+(··)	2 inserted characters
+(━━━━━━)	6 conserved characters
+(····)	4 inserted characters
+(━━━━…━━━━)	Remaining conserved sequence
+```
+```
 I met a traveller from an antique land
 Who said: Two vast and trunkless legs of stone
 Stand in the desart. Near them, on the sand,
